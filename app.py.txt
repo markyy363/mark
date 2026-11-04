@@ -1,1 +1,70 @@
-print("Hello World")
+print("===========================================")
+
+print("Studen Information")
+
+print("==========================================")
+
+full_Name = " Joey Mark Pelongco"
+
+age= 19
+
+Course= BSIT
+
+Year_level = " 2nd year"
+
+School = "University of Mindanao"
+print ("Name", Full_Name)
+print ("age" , age)
+print ("Course", Course)
+print("Year_level", Year_level)
+print("School",School)
+
+print ("===============================================")
+print ("QUIZ RESULTS")
+print ("===============================================")
+
+Quiz1 =85
+Quiz2 = 90
+Quiz3 = 95
+Total_Score = 270
+Average_Score = 90.0
+
+print ("Quiz 1:", Quiz1)
+print ("Quiz 2:", Quiz2)
+print ("Quuz 3: ", Quiz3)
+print ("Total_Score:", Total_Score)
+print ("Average Score" , Average_Score)
+
+print("================================================")
+print("PERSONAL INTRODUCTION")
+print("===============================================")
+
+Name = "Joey Mark Pelongco"
+Age = 19 
+Course =  BSIT
+Year_level = 2
+School = "University of Mindanao"
+
+print("Hello! My name" , Name )
+print("I am :", Age, "Years Old")
+print("I am curently studying :", Course)
+print("My year level is :" ,Year_level)
+print("I study at :" , School)
+print("Welcome to my first Python project")
+
+print ("==========================================")
+print (" Arithmetic Operations")
+print ("==========================================")
+
+First_Number = 20
+Second_Number = 5
+addition = 25 
+subtraction = 15
+multiplication = 100
+Division = 4.0
+
+print ("First_Number" , First_Number )
+print ("Second_Number" , Second_Number)
+print ("addition" , addition)
+print ("multiplication" , multiplication)
+print ("Division" , Division)
